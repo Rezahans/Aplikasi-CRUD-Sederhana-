@@ -1,9 +1,10 @@
 # Aplikasi-CRUD-Sederhana-
 
-Server Glassfish 4.1
-com.mysql.jdbc_5.1.5
-sql on xampp
-
+--------------------------------
+* Server Glassfish 4.1
+* com.mysql.jdbc_5.1.5
+* sql on xampp
+--------------------------------
 
 1. Buat Sebuah Database di SQL Server dengan Nama : app_crud
 2. Buat sebuah table dengan nama tbl_buku dengan attribute sebagai berikut :
